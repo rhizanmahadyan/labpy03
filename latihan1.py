@@ -1,4 +1,4 @@
-R = int(input("Inputtkan nilai R:"))
+R = int(input("Inputtkan nilai n:"))
 
 from random import random
 H = random()
